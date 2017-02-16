@@ -11,6 +11,6 @@ public class TestGit {
 
 		System.out.println("안녕하십니까");
 
-		System.out.println("asdasd");
+		
 	}
 }
