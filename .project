@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>testgit4</name>
+=======
+	<name>testgit</name>
+>>>>>>> branch 'Jinho' of https://github.com/dual1004/testgit.git
 	<comment></comment>
 	<projects>
 	</projects>
